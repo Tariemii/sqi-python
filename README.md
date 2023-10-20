@@ -1,1 +1,1 @@
-This repository contains all the assignments and projects while learning python in SQI
+This repository contains all the assignments and projects i did while learning python in SQI
